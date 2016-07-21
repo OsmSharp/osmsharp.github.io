@@ -14,7 +14,7 @@ OsmSharp enables you to work directly with OSM-data in .NET. Most important feat
 - Convert a stream of native OSM objects to 'complete' OSM objects: Ways with all their actual nodes, Relations with all members instantiated.
 - Convert OSM objects to geometries.
 
-For more information visit the repository on github: https://github.com/OsmSharp/core
+For more information visit the [repository on github](https://github.com/OsmSharp/core). 
 
 ### Some history
 
