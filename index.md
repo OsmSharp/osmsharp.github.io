@@ -4,6 +4,8 @@ layout: default
 
 ## OsmSharp is a C# library to work with OpenStreetMap (OSM) data.
 
+If you are here for route planning, check [Itinero](http://www.itinero.tech/).
+
 ### What can I do with OsmSharp?
 
 OsmSharp enables you to work directly with OSM-data in .NET. Most important features are:
@@ -21,7 +23,7 @@ For more information visit the [repository on github](https://github.com/OsmShar
 OsmSharp used to do everything on top of what it does today, including routing and rendering geo data. This was too much and the name _OsmSharp_ didn't make sense anymore. Now the old functionality has been replaced by several seperate projects:
 
 - [OsmSharp](https://github.com/OsmSharp/core): Working with OSM-data, filtering, transforming.
-- [Itinero](https://github.com/itinero/): The routing project is now maintained under the name **Itinero**.
+- [Itinero](http://www.itinero.tech/): The routing project is now maintained under the name **Itinero**.
 - UI: This UI and rendering project has not been replaced. Instead we recommend using [Mapsui](https://github.com/pauldendulk/Mapsui).
 
 ### Contact
